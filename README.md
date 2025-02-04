@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Here’s your updated README with Full Stack Developer (MERN and Next.js) added:<br><br>👋 Hi, I'm Girendra Sinsinwar<br>🚀 Full Stack Developer (MERN & Next.js) | 💻 Blockchain Enthusiast | 📱 React Native App Developer | 🔮 AI Explorer<br><br>I'm a Full Stack Developer with expertise in MERN Stack (MongoDB, Express.js, React, Node.js) and Next.js. I’m passionate about building scalable web, mobile, and blockchain solutions. My interests include Web3, AI-driven applications, and Smart Contracts, along with React Native for mobile app development. I love solving challenging problems and constantly exploring new technologies.<br><br>
+👋 Hi, I'm Girendra Sinsinwar<br>🚀 Full Stack Developer (MERN & Next.js) | 💻 Blockchain Enthusiast | 📱 React Native App Developer | 🔮 AI Explorer<br><br>I'm a Full Stack Developer with expertise in MERN Stack (MongoDB, Express.js, React, Node.js) and Next.js. I’m passionate about building scalable web, mobile, and blockchain solutions. My interests include Web3, AI-driven applications, and Smart Contracts, along with React Native for mobile app development. I love solving challenging problems and constantly exploring new technologies.<br><br>
 
 
 ## 🌐 Socials:
@@ -11,6 +11,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=girendra003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=girendra003&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=girendra003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=girendra003&limit=5&theme=dark&combine_all_yearly_contributions=true)
